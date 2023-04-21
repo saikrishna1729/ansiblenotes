@@ -1,0 +1,2 @@
+# ansiblenotes
+Notes about ansible
